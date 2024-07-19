@@ -44,7 +44,8 @@ A Python-based script for performing a brute force attack to find the correct pa
 [+] Enter Username For The Account To Bruteforce: admin
 [+] Enter Password File To Use: passwords.txt
 [+] Enter String That Occurs When Login Fails: Invalid username or password.
-Enter Cookie Value(Optional): 
+Enter Cookie Value(Optional):
+```
 
 # Customization
 ## Request Method
